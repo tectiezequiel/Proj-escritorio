@@ -1,0 +1,4 @@
+Progeto do trabalho mysql de um escritório de advogados.
+
+local: F:\zeca2023\Projet-Prof-Roni\Projet-Prof-Roni
+file:///D:/mysql-casa/Proj-escritorio/index.html
